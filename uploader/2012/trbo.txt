@@ -1,0 +1,299 @@
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  3%  slot0  [SLOT1]  VOICE e:====R===========
+============R===E========
+Sync: (+DMR)      mod: QPSK inlvl:  2% [slot0]  SLOT1   VOICE e:================
+=======R====R==========R====T====R
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  RATE 1/2 DATA
+Sync:  +DMR       mod: GFSK inlvl:  1% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  DATA Header
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1100
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1111
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1111
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Slot idle
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  RATE 1/2 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   TLC
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   PI Header
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   VOICE Header
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  Rate 1 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Slot idle
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1111
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  RATE 1/2 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   RATE 1/2 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1111
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   PI Header
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  PI Header
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   TLC
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   VOICE Header
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  PI Header
+Sync:  +DMR       mod: C4FM inlvl:  1% [slot0]  slot1   Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  RATE 1/2 DATA
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Slot idle
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1111
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  RATE 1/2 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  PI Header
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1100
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: GFSK inlvl:  1% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  1% [slot0]  slot1   PI Header
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   DATA Header
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1111
+
+Sync: no sync
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Slot idle
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   VOICE Header
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1111
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   MBC
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  PI Header
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  3% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   PI Header
+Sync:  +DMR       mod: GFSK inlvl:  3%  slot0  [slot1]  RATE 3/4 DATA
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   RATE 3/4 DATA
+Sync:  +DMR       mod: C4FM inlvl:  2%  slot0  [slot1]  VOICE Header
+Sync:  +DMR       mod: GFSK inlvl:  2% [slot0]  slot1   VOICE Header
+Sync:  +DMR       mod: GFSK inlvl:  2%  slot0  [slot1]  RATE 3/4 DATA
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Unknown burst type: 1101
+
+Sync:  +DMR       mod: GFSK inlvl:  1%  slot0  [slot1]  MBC Header
+Sync:  +DMR       mod: GFSK inlvl:  1% [slot0]  slot1   Slot idle
+Sync:  +DMR       mod: GFSK inlvl:  1%  slot0  [slot1]  MBC Header
+Sync:  +DMR       mod: QPSK inlvl:  1% [slot0]  slot1   Slot idle
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  MBC
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync: no sync
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  MBC
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  2%  slot0  [slot1]  Unknown burst type: 1101
+
+Sync:  +DMR       mod: QPSK inlvl:  1%  slot0  [slot1]  Unknown burst type: 1101
+

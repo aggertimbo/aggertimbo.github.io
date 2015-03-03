@@ -1,0 +1,398 @@
+fire64@fire64-EG31M-S2:~$ cd rtl-sdr/
+bash: cd: rtl-sdr/: Нет такого файла или каталога
+fire64@fire64-EG31M-S2:~$ git clone git://git.osmocom.org/rtl-sdr.git
+Cloning into 'rtl-sdr'...
+remote: Counting objects: 932, done.
+remote: Compressing objects: 100% (791/791), done.
+remote: Total 932 (delta 664), reused 197 (delta 133)
+Receiving objects: 100% (932/932), 233.83 KiB, done.
+Resolving deltas: 100% (664/664), done.
+fire64@fire64-EG31M-S2:~$ cd rtl-sdr/
+fire64@fire64-EG31M-S2:~/rtl-sdr$ mkdir build
+fire64@fire64-EG31M-S2:~/rtl-sdr$ cd build
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ cmake ../
+-- The C compiler identification is GNU 4.6.3
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Build type not specified: defaulting to release.
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.26") 
+-- checking for module 'libusb-1.0'
+--   found libusb-1.0, version 1.0.12
+-- Found libusb-1.0: /usr/include/libusb-1.0, /usr/lib/x86_64-linux-gnu/libusb-1.0.so
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Udev rules not being installed, install them with -DINSTALL_UDEV_RULES=ON
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fire64/rtl-sdr/build
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ make
+Scanning dependencies of target rtlsdr_shared
+[  6%] Building C object src/CMakeFiles/rtlsdr_shared.dir/librtlsdr.c.o
+[ 12%] Building C object src/CMakeFiles/rtlsdr_shared.dir/tuner_e4k.c.o
+[ 18%] Building C object src/CMakeFiles/rtlsdr_shared.dir/tuner_fc0012.c.o
+[ 25%] Building C object src/CMakeFiles/rtlsdr_shared.dir/tuner_fc0013.c.o
+[ 31%] Building C object src/CMakeFiles/rtlsdr_shared.dir/tuner_fc2580.c.o
+[ 37%] Building C object src/CMakeFiles/rtlsdr_shared.dir/tuner_r820t.c.o
+Linking C shared library librtlsdr.so
+[ 37%] Built target rtlsdr_shared
+Scanning dependencies of target rtl_fm
+[ 43%] Building C object src/CMakeFiles/rtl_fm.dir/rtl_fm.c.o
+Linking C executable rtl_fm
+[ 43%] Built target rtl_fm
+Scanning dependencies of target rtl_sdr
+[ 50%] Building C object src/CMakeFiles/rtl_sdr.dir/rtl_sdr.c.o
+Linking C executable rtl_sdr
+[ 50%] Built target rtl_sdr
+Scanning dependencies of target rtl_tcp
+[ 56%] Building C object src/CMakeFiles/rtl_tcp.dir/rtl_tcp.c.o
+Linking C executable rtl_tcp
+[ 56%] Built target rtl_tcp
+Scanning dependencies of target rtl_test
+[ 62%] Building C object src/CMakeFiles/rtl_test.dir/rtl_test.c.o
+Linking C executable rtl_test
+[ 62%] Built target rtl_test
+Scanning dependencies of target rtlsdr_static
+[ 68%] Building C object src/CMakeFiles/rtlsdr_static.dir/librtlsdr.c.o
+[ 75%] Building C object src/CMakeFiles/rtlsdr_static.dir/tuner_e4k.c.o
+[ 81%] Building C object src/CMakeFiles/rtlsdr_static.dir/tuner_fc0012.c.o
+[ 87%] Building C object src/CMakeFiles/rtlsdr_static.dir/tuner_fc0013.c.o
+[ 93%] Building C object src/CMakeFiles/rtlsdr_static.dir/tuner_fc2580.c.o
+[100%] Building C object src/CMakeFiles/rtlsdr_static.dir/tuner_r820t.c.o
+Linking C static library librtlsdr.a
+[100%] Built target rtlsdr_static
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ sudo make install
+[sudo] password for fire64: 
+[ 37%] Built target rtlsdr_shared
+[ 43%] Built target rtl_fm
+[ 50%] Built target rtl_sdr
+[ 56%] Built target rtl_tcp
+[ 62%] Built target rtl_test
+[100%] Built target rtlsdr_static
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /usr/local/lib/pkgconfig/librtlsdr.pc
+-- Installing: /usr/local/include/rtl-sdr.h
+-- Installing: /usr/local/include/rtl-sdr_export.h
+-- Installing: /usr/local/lib/librtlsdr.so.0.0.0
+-- Up-to-date: /usr/local/lib/librtlsdr.so.0
+-- Up-to-date: /usr/local/lib/librtlsdr.so
+-- Installing: /usr/local/lib/librtlsdr.a
+-- Installing: /usr/local/bin/rtl_sdr
+-- Removed runtime path from "/usr/local/bin/rtl_sdr"
+-- Installing: /usr/local/bin/rtl_tcp
+-- Removed runtime path from "/usr/local/bin/rtl_tcp"
+-- Installing: /usr/local/bin/rtl_test
+-- Removed runtime path from "/usr/local/bin/rtl_test"
+-- Installing: /usr/local/bin/rtl_fm
+-- Removed runtime path from "/usr/local/bin/rtl_fm"
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ sudo ldconfig
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ git clone git://git.osmocom.org/gr-osmosdr
+Cloning into 'gr-osmosdr'...
+remote: Counting objects: 842, done.
+remote: Compressing objects: 100% (772/772), done.
+remote: Total 842 (delta 536), reused 89 (delta 57)
+Receiving objects: 100% (842/842), 265.91 KiB, done.
+Resolving deltas: 100% (536/536), done.
+fire64@fire64-EG31M-S2:~/rtl-sdr/build$ cd gr-osmosdr/
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr$ mkdir build
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr$ cd build/
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr/build$ cmake ../
+-- The CXX compiler identification is GNU 4.6.3
+-- The C compiler identification is GNU 4.6.3
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Build type not specified: defaulting to release.
+-- Found Git: /usr/bin/git (found version "1.7.10.4") 
+-- Extracting version information from git describe...
+-- Configuring Boost C++ Libraries...
+-- Boost version: 1.49.0
+-- Found the following Boost libraries:
+--   thread
+--   system
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.26") 
+-- checking for module 'gruel'
+--   found gruel, version 3.6.1
+-- Found GRUEL: /usr/lib/x86_64-linux-gnu/libgruel.so  
+-- checking for module 'gnuradio-core'
+--   found gnuradio-core, version 3.6.1
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+-- Found GNURADIO_CORE: /usr/lib/x86_64-linux-gnu/libgnuradio-core.so  
+-- checking for module 'uhd'
+--   package 'uhd' not found
+-- Could NOT find UHD (missing:  UHD_LIBRARIES UHD_INCLUDE_DIRS) 
+-- checking for module 'gnuradio-uhd'
+--   found gnuradio-uhd, version 3.6.1
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+-- Found gnuradio-uhd: /usr/include, /usr/lib/x86_64-linux-gnu/libgnuradio-uhd.so
+-- Found GNURADIO_UHD: /usr/lib/x86_64-linux-gnu/libgnuradio-uhd.so  
+-- checking for module 'gnuradio-fcd'
+--   found gnuradio-fcd, version 3.6.1
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+Package fftw3f was not found in the pkg-config search path.
+Perhaps you should add the directory containing `fftw3f.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'fftw3f', required by 'gnuradio-core', not found
+-- Found gnuradio-fcd: /usr/include, /usr/lib/x86_64-linux-gnu/libgnuradio-fcd.so
+-- Found GNURADIO_FCD: /usr/lib/x86_64-linux-gnu/libgnuradio-fcd.so  
+-- checking for module 'libosmosdr'
+--   package 'libosmosdr' not found
+-- libosmosdr not found.
+-- checking for module 'librtlsdr'
+--   found librtlsdr, version 
+-- Found librtlsdr: /usr/local/include, /usr/local/lib/librtlsdr.so
+-- 
+-- The build system will automatically enable all components.
+-- Use -DENABLE_DEFAULT=OFF to disable components by default.
+-- 
+-- Configuring sysmocom OsmoSDR support...
+--   Dependency LIBOSMOSDR_FOUND = FALSE
+--   Disabling sysmocom OsmoSDR support.
+--   Override with -DENABLE_OSMOSDR=ON/OFF
+-- 
+-- Configuring FunCube Dongle support...
+--   Dependency GNURADIO_FCD_FOUND = TRUE
+--   Enabling FunCube Dongle support.
+--   Override with -DENABLE_FCD=ON/OFF
+-- 
+-- Configuring IQ File Source support...
+--   Dependency GNURADIO_CORE_FOUND = TRUE
+--   Enabling IQ File Source support.
+--   Override with -DENABLE_FILE=ON/OFF
+-- 
+-- Configuring Osmocom RTLSDR support...
+--   Dependency LIBRTLSDR_FOUND = TRUE
+--   Enabling Osmocom RTLSDR support.
+--   Override with -DENABLE_RTL=ON/OFF
+-- 
+-- Configuring RTLSDR TCP Client support...
+--   Dependency GNURADIO_CORE_FOUND = TRUE
+--   Enabling RTLSDR TCP Client support.
+--   Override with -DENABLE_RTL_TCP=ON/OFF
+-- 
+-- Configuring Ettus UHD support...
+--   Dependency UHD_FOUND = FALSE
+--   Dependency GNURADIO_UHD_FOUND = TRUE
+--   Disabling Ettus UHD support.
+--   Override with -DENABLE_UHD=ON/OFF
+-- Could NOT find SWIG (missing:  SWIG_EXECUTABLE SWIG_DIR) 
+-- Found PythonLibs: /usr/lib/python3.2/config/libpython3.2.so (found version "2.7.3") 
+-- Found PythonInterp: /usr/bin/python (found version "2.7.3") 
+-- Could NOT find Doxygen (missing:  DOXYGEN_EXECUTABLE) 
+-- 
+-- ######################################################
+-- # gr-osmosdr enabled components                         
+-- ######################################################
+--   * FunCube Dongle
+--   * IQ File Source
+--   * Osmocom RTLSDR
+--   * RTLSDR TCP Client
+-- 
+-- ######################################################
+-- # gr-osmosdr disabled components                        
+-- ######################################################
+--   * sysmocom OsmoSDR
+--   * Ettus UHD
+-- 
+-- Building for version: 36a92a92 / 0.0.1git
+-- Using install prefix: /usr/local
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fire64/rtl-sdr/build/gr-osmosdr/build
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr/build$ make
+Scanning dependencies of target gnuradio-osmosdr
+[  7%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/osmosdr_source_c_impl.cc.o
+[ 15%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/osmosdr_sink_c_impl.cc.o
+[ 23%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/osmosdr_ranges.cc.o
+[ 30%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/osmosdr_device.cc.o
+[ 38%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/fcd/fcd_source.cc.o
+[ 46%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/file/file_source_c.cc.o
+[ 53%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/rtl/rtl_source_c.cc.o
+[ 61%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/rtl_tcp/rtl_tcp_source_f.cc.o
+[ 69%] Building CXX object lib/CMakeFiles/gnuradio-osmosdr.dir/rtl_tcp/rtl_tcp_source_c.cc.o
+Linking CXX shared library libgnuradio-osmosdr.so
+[ 69%] Built target gnuradio-osmosdr
+Scanning dependencies of target pygen_python_cb917
+[ 76%] Generating __init__.pyc
+[ 84%] Generating __init__.pyo
+[ 84%] Built target pygen_python_cb917
+Scanning dependencies of target osmosdr_grc_xml_blocks
+[ 92%] Generating rtlsdr_source_c.xml
+[100%] Generating osmosdr_source_c.xml
+[100%] Built target osmosdr_grc_xml_blocks
+Scanning dependencies of target pygen_apps_9a6dd
+[100%] Built target pygen_apps_9a6dd
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr/build$ sudo make install
+[ 69%] Built target gnuradio-osmosdr
+[ 84%] Built target pygen_python_cb917
+[100%] Built target osmosdr_grc_xml_blocks
+[100%] Built target pygen_apps_9a6dd
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /usr/local/lib/pkgconfig/gnuradio-osmosdr.pc
+-- Installing: /usr/local/include/osmosdr/osmosdr_api.h
+-- Installing: /usr/local/include/osmosdr/osmosdr_pimpl.h
+-- Installing: /usr/local/include/osmosdr/osmosdr_ranges.h
+-- Installing: /usr/local/include/osmosdr/osmosdr_device.h
+-- Installing: /usr/local/include/osmosdr/osmosdr_source_c.h
+-- Installing: /usr/local/lib/libgnuradio-osmosdr.so.0.1
+-- Up-to-date: /usr/local/lib/libgnuradio-osmosdr.so.0
+-- Up-to-date: /usr/local/lib/libgnuradio-osmosdr.so
+-- Removed runtime path from "/usr/local/lib/libgnuradio-osmosdr.so.0.1"
+-- Installing: /usr/local/lib/python2.7/dist-packages/osmosdr/__init__.py
+-- Installing: /usr/local/lib/python2.7/dist-packages/osmosdr/__init__.pyc
+-- Installing: /usr/local/lib/python2.7/dist-packages/osmosdr/__init__.pyo
+-- Installing: /usr/local/share/gnuradio/grc/blocks/rtlsdr_source_c.xml
+-- Installing: /usr/local/share/gnuradio/grc/blocks/osmosdr_source_c.xml
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr/build$ sudo ldconfig
+fire64@fire64-EG31M-S2:~/rtl-sdr/build/gr-osmosdr/build$ 
+

@@ -1,0 +1,261 @@
+fire64@fire64-EG31M-S2:~$ $ wget http://www.sbrac.org/files/build-gnuradio && chmod a+x ./build-gnuradio && ./build-gnuradio
+$: command not found
+fire64@fire64-EG31M-S2:~$ wget http://www.sbrac.org/files/build-gnuradio && chmod a+x ./build-gnuradio && ./build-gnuradio
+--2012-09-14 19:16:07--  http://www.sbrac.org/files/build-gnuradio
+Преобразование адреса www.sbrac.org (www.sbrac.org)... 174.142.32.20
+Подключение к www.sbrac.org (www.sbrac.org)|174.142.32.20|:80... соединились.
+Запрос HTTP послан, ожидание ответа... 200 OK
+Длина: 29181 (28K) [text/plain]
+Сохранение в каталог: ««build-gnuradio»».
+
+100%[======================================>] 29 181      65,6K/s   за 0,4s    
+
+2012-09-14 19:16:09 (65,6 KB/s) - «build-gnuradio» сохранен [29181/29181]
+
+This script will install Gnu Radio from current GIT sources
+You will require Internet access from the computer on which this
+script runs. You will also require SUDO access. You will require
+approximately 500MB of free disk space to perform the build.
+ 
+This script will, as a side-effect, remove any existing Gnu Radio
+installation that was installed from your Linux distribution packages.
+It must do this to prevent problems due to interference between
+a linux-distribution-installed Gnu Radio/UHD and one installed from GIT source.
+ 
+The whole process may take up to two hours to complete, depending on the
+capabilities of your system.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+NOTE: if you run into problems while running this script, you can re-run it with
+the --verbose option to produce lots of diagnostic output to help debug problems.
+This script has been written to anticipate some of the more common problems one might
+encounter building ANY large, complex software package. But it is not pefect, and
+there are certainly some situations it could encounter that it cannot deal with
+gracefully. Altering the system configuration from something reasonably standard,
+removing parts of the filesystem, moving system libraries around arbitrarily, etc,
+it likely cannot cope with. It is just a script. It isn't intuitive or artificially
+intelligent. It tries to make life a little easier for you, but at the end of the day
+if it runs into trouble, a certain amount of knowledge on your part about
+system configuration and idiosyncrasies will inevitably be necessary.
+
+
+Proceed?yes
+Starting all functions at: Пт. сент. 14 19:16:19 MSK 2012
+SUDO privileges are required
+Do you have SUDO privileges?yes
+Continuing with script
+[sudo] password for fire64: 
+Installing prequisites...Checking for package libfontconfig1-dev
+Checking for package libxrender-dev
+Checking for package libpulse-dev
+Checking for package swig
+Checking for package g++
+Checking for package automake
+Checking for package autoconf
+Checking for package libtool
+Checking for package python-dev
+Checking for package libfftw3-dev
+Checking for package libcppunit-dev
+Checking for package libboost-all-dev
+Checking for package libusb-dev
+Checking for package libusb-1.0-0-dev
+Checking for package fort77
+Checking for package libsdl1.2-dev
+Checking for package python-wxgtk2.8
+Checking for package git-core
+Checking for package guile-1.8-dev
+Checking for package libqt4-dev
+Checking for package python-numpy
+Checking for package ccache
+Checking for package python-opengl
+Checking for package libgsl0-dev
+Checking for package python-cheetah
+Checking for package python-lxml
+Checking for package doxygen
+Checking for package qt4-dev-tools
+Checking for package libusb-1.0-0-dev
+Checking for package libqwt5-qt4-dev
+Checking for package libqwtplot3d-qt4-dev
+Checking for package pyqt4-dev-tools
+Checking for package python-qwt5-qt4
+Checking for package cmake
+Checking for package git-core
+Checking for package wget
+Checking for package libxi-dev
+Checking for package python-docutils
+Checking for package gtk2-engines-pixbuf
+Checking for package r-base-dev
+Checking for package python-tk
+Checking for package liborc-0.4-0
+Checking for package libasound2-dev
+Checking for package python-gtk2
+Failed to find just-installed command 'guile' after pre-requisite installation.
+This very likely indicates that the pre-requisite installation failed
+to install one or more critical pre-requisites for Gnu Radio/UHD
+fire64@fire64-EG31M-S2:~$ wget http://www.sbrac.org/files/build-gnuradio && chmod a+x ./build-gnuradio && ./build-gnuradio
+--2012-09-14 19:20:02--  http://www.sbrac.org/files/build-gnuradio
+Преобразование адреса www.sbrac.org (www.sbrac.org)... 174.142.32.20
+Подключение к www.sbrac.org (www.sbrac.org)|174.142.32.20|:80... соединились.
+Запрос HTTP послан, ожидание ответа... 200 OK
+Длина: 29181 (28K) [text/plain]
+Сохранение в каталог: ««build-gnuradio.1»».
+
+100%[======================================>] 29 181      66,3K/s   за 0,4s    
+
+2012-09-14 19:20:04 (66,3 KB/s) - «build-gnuradio.1» сохранен [29181/29181]
+
+This script will install Gnu Radio from current GIT sources
+You will require Internet access from the computer on which this
+script runs. You will also require SUDO access. You will require
+approximately 500MB of free disk space to perform the build.
+ 
+This script will, as a side-effect, remove any existing Gnu Radio
+installation that was installed from your Linux distribution packages.
+It must do this to prevent problems due to interference between
+a linux-distribution-installed Gnu Radio/UHD and one installed from GIT source.
+ 
+The whole process may take up to two hours to complete, depending on the
+capabilities of your system.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+NOTE: if you run into problems while running this script, you can re-run it with
+the --verbose option to produce lots of diagnostic output to help debug problems.
+This script has been written to anticipate some of the more common problems one might
+encounter building ANY large, complex software package. But it is not pefect, and
+there are certainly some situations it could encounter that it cannot deal with
+gracefully. Altering the system configuration from something reasonably standard,
+removing parts of the filesystem, moving system libraries around arbitrarily, etc,
+it likely cannot cope with. It is just a script. It isn't intuitive or artificially
+intelligent. It tries to make life a little easier for you, but at the end of the day
+if it runs into trouble, a certain amount of knowledge on your part about
+system configuration and idiosyncrasies will inevitably be necessary.
+
+
+Proceed?yes
+Starting all functions at: Пт. сент. 14 19:20:08 MSK 2012
+SUDO privileges are required
+Do you have SUDO privileges?87793408
+Exiting. Please ensure that you have SUDO privileges on this system!
+fire64@fire64-EG31M-S2:~$ wget http://www.sbrac.org/files/build-gnuradio && chmod a+x ./build-gnuradio && ./build-gnuradio
+--2012-09-14 19:20:20--  http://www.sbrac.org/files/build-gnuradio
+Преобразование адреса www.sbrac.org (www.sbrac.org)... 174.142.32.20
+Подключение к www.sbrac.org (www.sbrac.org)|174.142.32.20|:80... соединились.
+Запрос HTTP послан, ожидание ответа... 200 OK
+Длина: 29181 (28K) [text/plain]
+Сохранение в каталог: ««build-gnuradio.2»».
+
+100%[======================================>] 29 181      66,5K/s   за 0,4s    
+
+2012-09-14 19:20:22 (66,5 KB/s) - «build-gnuradio.2» сохранен [29181/29181]
+
+This script will install Gnu Radio from current GIT sources
+You will require Internet access from the computer on which this
+script runs. You will also require SUDO access. You will require
+approximately 500MB of free disk space to perform the build.
+ 
+This script will, as a side-effect, remove any existing Gnu Radio
+installation that was installed from your Linux distribution packages.
+It must do this to prevent problems due to interference between
+a linux-distribution-installed Gnu Radio/UHD and one installed from GIT source.
+ 
+The whole process may take up to two hours to complete, depending on the
+capabilities of your system.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+NOTE: if you run into problems while running this script, you can re-run it with
+the --verbose option to produce lots of diagnostic output to help debug problems.
+This script has been written to anticipate some of the more common problems one might
+encounter building ANY large, complex software package. But it is not pefect, and
+there are certainly some situations it could encounter that it cannot deal with
+gracefully. Altering the system configuration from something reasonably standard,
+removing parts of the filesystem, moving system libraries around arbitrarily, etc,
+it likely cannot cope with. It is just a script. It isn't intuitive or artificially
+intelligent. It tries to make life a little easier for you, but at the end of the day
+if it runs into trouble, a certain amount of knowledge on your part about
+system configuration and idiosyncrasies will inevitably be necessary.
+
+
+Proceed?yes
+Starting all functions at: Пт. сент. 14 19:20:25 MSK 2012
+SUDO privileges are required
+Do you have SUDO privileges?yes
+Continuing with script
+Installing prequisites...Checking for package libfontconfig1-dev
+Checking for package libxrender-dev
+Checking for package libpulse-dev
+Checking for package swig
+Checking for package g++
+Checking for package automake
+Checking for package autoconf
+Checking for package libtool
+Checking for package python-dev
+Checking for package libfftw3-dev
+Checking for package libcppunit-dev
+Checking for package libboost-all-dev
+Checking for package libusb-dev
+Checking for package libusb-1.0-0-dev
+Checking for package fort77
+Checking for package libsdl1.2-dev
+Checking for package python-wxgtk2.8
+Checking for package git-core
+Checking for package guile-1.8-dev
+Checking for package libqt4-dev
+Checking for package python-numpy
+Checking for package ccache
+Checking for package python-opengl
+Checking for package libgsl0-dev
+Checking for package python-cheetah
+Checking for package python-lxml
+Checking for package doxygen
+Checking for package qt4-dev-tools
+Checking for package libusb-1.0-0-dev
+Checking for package libqwt5-qt4-dev
+Checking for package libqwtplot3d-qt4-dev
+Checking for package pyqt4-dev-tools
+Checking for package python-qwt5-qt4
+Checking for package cmake
+Checking for package git-core
+Checking for package wget
+Checking for package libxi-dev
+Checking for package python-docutils
+Checking for package gtk2-engines-pixbuf
+Checking for package r-base-dev
+Checking for package python-tk
+Checking for package liborc-0.4-0
+Checking for package libasound2-dev
+Checking for package python-gtk2
+Checking for library libusb ...Found library libusb
+Checking for library libboost ...Found library libboost
+Checking for library libcppunit ...Found library libcppunit
+Checking for library libguile ...Found library libguile
+Checking for library libfftw ...Found library libfftw
+Checking for library libgsl ...Found library libgsl
+Done
+Fetching Gnu Radio via GIT...Done
+Fetching UHD via GIT...Fetching rtl-sdr (rtl-sdr, and gr-osmosdr) via GIT
+Done
+Starting function uhd_build at: Пт. сент. 14 19:24:19 MSK 2012
+Building UHD...Done building/installing UHD
+Done function uhd_build at: Пт. сент. 14 19:38:35 MSK 2012
+Starting function firmware at: Пт. сент. 14 19:38:35 MSK 2012
+Downloading images from: http://files.ettus.com/binaries/master_images/archive/uhd-images_003.004.003-205-g4896bf78.zip
+ 6.95 MB/6.95 MB (100.00%)
+Images successfully installed to: /usr/local/share/uhd/images
+Done downloading firmware to /usr/local/share/uhd/images
+Done function firmware at: Пт. сент. 14 19:38:42 MSK 2012
+Starting function gnuradio_build at: Пт. сент. 14 19:38:42 MSK 2012
+/usr/local/lib already in ld.so.conf.d
+Doing ldconfig...
+Building Gnu Radio...
+...Doing cmake
+...Cmaking
+...Building
+...Installing
+Done building and installing Gnu Radio
+GRC freedesktop icons install ...Done
+Done function gnuradio_build at: Пт. сент. 14 19:40:08 MSK 2012
+Starting function rtl_build at: Пт. сент. 14 19:40:08 MSK 2012
+Building rtl-sdr...gr-osmosdr build apparently failed
+Exit rtl-sdr/gr-osmosdr build
+fire64@fire64-EG31M-S2:~$ 
+

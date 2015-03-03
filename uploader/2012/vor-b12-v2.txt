@@ -1,0 +1,832 @@
+RUSSIA   [ARMENIA/GERMANY/MOLDOVA/TAJIKISTAN]
+
+Winter B-12 schedule of Voice of Russia Moscow.
+Foreign languages Service schedule B-12,
+B-Version as of Jan 2, 2013
+
+UTC
+language
+kHz   TX location kW target area remarks
+
+0000-0100
+
+Chechen
+  657 Grozniy 50 Caucasus
+
+English
+ 7290 Grigoriopol-MDA 500 NoAM CeAM
+
+Spanish
+ 9395 Yerevan Gavar-ARM 500 CeAM
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+0100-0200
+
+English
+  648 Dushanbe-TJK 1000 AS/CIS-CeAS/NE/ME
+  801 Dushanbe-TJK 500 AS/CIS-CeAS, NE/ME
+  927 Dushanbe-TJK 300 AS/CIS-CeAS/NE/ME
+ 7290 Grigoriopol-MDA 500 NoAM CeAM
+
+Spanish
+ 9395 Yerevan Gavar-ARM 500 CeAM
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+Turkish
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+0200-0300
+
+English
+  648 Dushanbe-TJK 1000 AS/CIS-CeAS/NE/ME
+  927 Dushanbe-TJK 300 CIS-CeAS, NE/ME/CIS
+  972 Dushanbe-TJK 1000 AS/CIS-CeAS/NE/ME
+ 1377 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+ 7290 Grigoriopol-MDA 500 NoAM CeAM
+
+Spanish
+ 9395 Yerevan Gavar-ARM 500 CeAM
+ 9480 Dushanbe-TJK 500 SoAM
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+Turkish
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+0300-0400
+
+English
+  648 Dushanbe-TJK 1000 AS/CIS-CeAS/NE/ME
+  927 Dushanbe-TJK  300 AS/CIS-CeAS/NE/ME
+  972 Dushanbe-TJK 1000 AS/CIS-CeAS/NE/ME
+ 1314 Yerevan Gavar-ARM 1000 TUR/CYP/NE/ME/CIS/Caucasus
+ 1377 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+ 7290 Grigoriopol-MDA 500 NoAM CeAM
+
+Spanish
+ 9395 Yerevan Gavar-ARM 500 CeAM
+ 9480 Dushanbe-TJK 500 SoAM
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+Turkish
+ 1350 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+0400-0500
+
+English
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+Spanish
+ 9395 Yerevan Gavar-ARM 500 CeAM
+ 9480 Dushanbe-TJK 500 SoAM
+ 9765 Yerevan Gavar-ARM 500 SoAM
+
+Turkish
+ 1350 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+0500-0600
+
+Chechen
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+
+Kurdish
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+0600-0700
+
+English
+11635 DRM ch#2A Moscow 40 EUR
+21800 Irkutsk 250 AUS/NZL/PAC
+21820 Novosibirsk 250 AUS/NZL/PAC
+
+0700-0800
+
+English
+11635 DRM ch#2A Moscow 40 EUR
+12015 Irkutsk 250 AS/SoEaAS
+15745 Dushanbe 500 AS - not on service yet
+21800 Irkutsk 250 AS/AUS/NZL/PAC
+21820 Novosibirsk 250 AS/AUS/NZL/PAC
+21840 Novosibirsk 250 AS/SoEaAS
+
+0800-0900
+
+English
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+11635 DRM ch#2A Moscow 40 EUR, Baltics
+12015 Irkutsk 250 AS/SoEaAS
+15745 Dushanbe 500 AS - not on service yet
+21800 Irkutsk 250 AS/AUS/NZL/PAC
+21820 Novosibirsk 250 AS/AUS/NZL/PAC
+21840 Novosibirsk 250 AS/SoEaAS
+
+Italian
+ 1512 Ondamedia Broadcast relay in Emilia Romagna Orientale
+      (only Tue to Sun), San Pietro in Casale, Italy
+
+0900-1000
+
+German
+  693 Oranienburg Germany 125 EUR
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+11635 DRM ch#2A Moscow 40 EUR, Baltics
+
+English
+  648 Ussuriisk 500 AS/FE
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+15745 Dushanbe 500 AS - not on service yet
+21800 Irkutsk 250 AS/AUS/NZL/PAC
+21820 Novosibirsk 250 AS/AUS/NZL/PAC
+
+1000-1100
+
+Chinese
+  648 Ussuriisk 500 AS/FE
+ 1080 Irkutsk 500 AS/FE
+ 5900 Vladivostok 100 AS/FE
+ 7305 Irkutsk 250 AS/FE
+11935 Novosibirsk 250 AS/FE
+
+English
+ 7260 Vladivostok 250 CeAS/SoAS
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+15745 Dushanbe 500 AS - not on service yet
+
+German
+  693 Oranienburg Germany 125 EUR
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+1100-1200
+
+Chinese
+  648 Ussuriisk 500 AS/FE
+ 1080 Irkutsk 500 AS/FE
+ 5900 Vladivostok 100 AS/FE
+ 6115 Irkutsk 250 AS/FE
+ 7305 Irkutsk 250 AS/FE
+11935 Novosibirsk 250 AS/FE
+
+English
+ 7260 Vladivostok 500 AS/SoEaAS
+ 9560 Novosibirsk 250 AS/SoEaAS
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+11640 DRM ch#2A Irkutsk 15 AS - not heard
+      - totally covered by CRI Xian Mandarin 500kW powerhouse,
+      and RTI Kouhu Taiwan in Chinese.
+
+German
+  693 Oranienburg Germany 250 EUR
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+1200-1300
+
+Chechen
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+
+Chinese
+  648 Ussuriisk 500 AS/FE
+ 1080 Irkutsk 500 AS/FE
+ 5900 Vladivostok 100 AS/FE
+ 6115 Irkutsk 250 AS/FE
+ 7305 Irkutsk 250 AS/FE
+
+Dari/Pashto
+  648 Dushanbe-TJK 1000 NE/ME/CIS
+  801 Dushanbe-TJK 500 CIS-CeAS
+ 4960 Dushanbe-TJK 100 NE/ME/CIS  footprint 1211 UT 4960.091 kHz.
+
+English
+  972 Dushanbe-TJK 1000 NE/ME/CIS
+ 5885 Dushanbe 100 AS
+ 9560 Novosibirsk 250 AS/SoEaAS
+ 9625 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+12075 Dushanbe-TJK 500 AS  - not on service yet
+
+Italian
+ 1512 Ondamedia Broadcast relay in Emilia Romagna Orientale
+      (only Tue to Sun), San Pietro in Casale, Italy
+
+Japanese
+  720 Yuzhno-Sakhalinsk 1000 AS/FE
+ 5980 Irkutsk 250 AS/FE
+
+Vietnamese
+ 7260 Vladivostok 500 AS/SoEaAS
+
+1300-1400
+
+Chinese
+  648 Ussuriisk 500 AS/FE
+ 6115 Irkutsk 250 AS/FE
+ 7305 Irkutsk 250 AS/FE
+
+Dari/Pashto
+  648 Dushanbe-TJK 1000 NE/ME/CIS
+  801 Dushanbe-TJK 500 CIS-CeAS
+ 4960 Dushanbe-TJK 100 NE/ME/CIS
+
+English
+  972 Dushanbe-TJK 1000 NE/ME/CIS
+ 7260 Vladivostok 500 AS/SoEaAS
+ 9560 Novosibirsk 250 AS/SoEaAS
+ 9625 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+12075 Dushanbe-TJK 500 AS  - not on service yet
+
+Hindi
+  972 Dushanbe-TJK 1000 AS, CIS-CeAS, NE/ME/CIS
+ 5885 Dushanbe 100 AS
+ 7315 DRM ch#2A Irkutsk 15 AS - totally covered CNR2 Xian #594
+Delhi, Kolkata, Mumbai and Bangalore FM broadcasts on 104.0 MHz
+
+Japanese
+  720 Yuzhno-Sakhalinsk 1000 AS/FE
+ 5980 Irkutsk 250 AS/FE
+
+Mongolian (2 x 30 mins program)
+ 1080 Irkutsk 500 AS
+ 5900 Vladivostok 100 AS/FE
+
+Turkish
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+ 1350 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+1400-1500
+
+English
+  648 Ussuriisk 500 AS/FE [-1445 UT]
+  648 Dushanbe-TJK 1000 AS, CIS-CeAS, NE/ME/CIS
+ 4960 Dushanbe-TJK  100 AS, CIS-CeAS, NE/ME/CIS
+ 6235 Dushanbe-TJK  100 CIS-CeAS, NE/ME/CIS
+ 7260 Vladivostok 500 AS/SoEaAS
+ 9560 Novosibirsk 250 AS/SoEaAS
+12075 Dushanbe-TJK 500 AS  - not on service yet
+
+Turkish
+ 1170 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS/Caucasus
+ 1314 Yerevan Gavar-ARM 1000 TUR/CYP/NE/ME/CIS/Caucasus
+ 1350 Yerevan Gavar-ARM 1000 TUR/CYP/NE/ME/CIS/Caucasus
+
+Urdu
+  801 Dushanbe-TJK 500 AS
+  927 Dushanbe-TJK 300 AS
+ 5885 Dushanbe 100 AS
+ 7315 DRM ch#2A Irkutsk 15 AS  - totally covered CNR2 Xian #594
+
+1500-1600
+
+English
+  927 Dushanbe-TJK 300 AS, NE/ME
+ 4960 Dushanbe-TJK  100 AS, CIS-CeAS, NE/ME/CIS
+ 5900 Irkutsk 250 NE/ME
+11985 Yerevan Gavar-ARM 500 AF/NE/CIS
+
+German
+  693 Oranienburg Germany 125 EUR
+
+Hindi
+  801 Dushanbe-TJK 500 AS
+ 5885 Dushanbe 100 AS
+ 7315 DRM ch#2A Irkutsk 15 AS  - totally covered CNR2 Xian #594
+Delhi, Kolkata, Mumbai and Bangalore FM broadcasts on 104.0 MHz
+
+Kurdish
+ 1089 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS/Caucasus
+
+Persian
+  648 Dushanbe-TJK 1000 NE/ME/CIS
+ 1377 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 ME
+
+Serbian
+ 1548 Grigoriopol-MDA 500 EUR
+
+Turkish
+ 1170 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS/Caucasus
+
+1600-1700
+
+Arabic
+ 1089 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 9340 Dushanbe-TJK 500 AF, NE/ME, CIS-CeAS
+
+English
+  801 Dushanbe-TJK 500 CeAS, NE/ME
+ 4960 Dushanbe-TJK 100 AS, CIS-CeAS, NE/ME/CIS
+ 5885 Dushanbe-TJK 100 CeAS, NE/ME/AS
+ 5900 Irkutsk 250 NE/ME
+ 5955 Novosibirsk 250 AS
+ 7390 Novosibirsk 250 NE/ME/AF
+      totally covered by Denge Kurdistani from Kostinbrod, BRB broker
+
+French
+ 9405 Grigoriopol-MDA 500 AF
+11985 Yerevan Gavar-ARM 500 AF/NE
+
+German
+  693 Oranienburg Germany 125 EUR
+
+Persian
+  648 Dushanbe-TJK 1000 NE/ME/CIS
+ 1377 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 ME
+
+Serbian
+ 1548 Grigoriopol-MDA 500 EUR
+
+1700-1800
+
+Arabic
+ 1089 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 AF, NE/ME, CIS-CeAS
+ 9340 Dushanbe-TJK 500 AF, NE/ME, CIS-CeAS
+
+English
+  648 Dushanbe-TJK 1000 NE/ME/CIS
+  801 Dushanbe-TJK 500 AS/NE/ME/CIS
+ 4960 Dushanbe-TJK  100 AS, CIS-CeAS, NE/ME/CIS
+ 5900 Irkutsk 250 NE/ME
+ 5955 Novosibirsk 250 AS
+ 7390 Novosibirsk 250 NE/ME/AF
+
+French
+ 9405 Grigoriopol-MDA 500 AF
+11985 Yerevan Gavar-ARM 500 AF/NE
+
+German
+  693 Oranienburg Germany 125 EUR
+
+Italian
+ 1548 Grigoriopol-MDA 500 EUR
+ 6145 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+
+Polish
+ 1143 Kaliningrad Bolshakovo 150 EUR
+
+1800-1900
+
+Arabic
+ 1089 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 AF, NE/ME, CIS-CeAS
+ 9340 Dushanbe-TJK 500 AF, NE/ME, CIS-CeAS
+
+English
+  648 Dushanbe-TJK 1000 NE/ME, CIS-CeAS
+  801 Dushanbe-TJK 500 NE/ME, CIS-CeAS
+  927 Dushanbe-TJK 300 NE/ME, CIS-CeAS
+ 4960 Dushanbe-TJK  100 AS, CIS-CeAS, NE/ME/CIS
+11985 Yerevan Gavar-ARM 1000 AF/NE/ME/CIS
+
+French
+ 6145 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+ 9400 Grigoriopol-MDA 500 AF
+
+German
+  693 Oranienburg Germany 125 EUR
+
+1900-2000
+
+Arabic
+ 1089 Armavir Tbilisskaya 1200 TUR/CYP/NE/ME/CIS
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 AF, NE/ME, CIS-CeAS
+ 9340 Dushanbe-TJK 500 AF, NE/ME, CIS-CeAS
+11985 Yerevan Gavar-ARM 1000 AF/NE/CIS
+
+French
+ 9400 Grigoriopol-MDA 500 AF
+
+2000-2100
+
+Arabic
+ 1314 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 6235 Dushanbe-TJK 100 AF, NE/ME, CIS-CeAS
+ 9340 Dushanbe-TJK 500 AF, NE/ME, CIS-CeAS
+
+Chechen
+  657 Grozniy 50 Caucasus
+
+French
+ 9400 Grigoriopol-MDA 500 AF
+
+Spanish
+ 6000 DRM ch#2A Moscow 40 EUR, Iberian peninsula
+
+2000-2130
+
+Serbian
+ 1548 Grigoriopol-MDA 500 EUR
+
+2100-2200
+
+Portuguese
+ 6000 DRM ch#2A Moscow 40 EUR, Iberian peninsula
+
+2100-2230
+
+Turkish
+ 1314 Yerevan Gavar-ARM 1000 TUR/CYP/NE/ME/CIS/Caucasus
+
+2130-2230
+
+Italian
+ 1548 Grigoriopol-MDA 500 EUR
+
+2200-2300
+
+English
+ 9395 Yerevan Gavar-ARM 500 CeAM, SoAM
+
+Portuguese
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+2300-2400
+
+English
+ 9395 Yerevan Gavar-ARM 500 CeAM, SoAM
+
+Portuguese
+ 9750 Yerevan Gavar-ARM 500 SoAM
+
+<http://arabic.ruvr.ru/arb_schedule/>
+<http://chinese.ruvr.ru/2010/04/03/5967939.html>
+<http://dari.ruvr.ru/afg_schedule/>
+<http://french.ruvr.ru/fra_schedule/>
+<http://hindi.ruvr.ru/radio_broadcast.html>
+<http://italian.ruvr.ru/2011/01/20/40500609.html>
+<http://japanese.ruvr.ru/jap_schedule/>
+<http://kurdish.ruvr.ru/kur_schedule/>
+<http://mongolian.ruvr.ru/mong_schedule/>
+<http://turkish.ruvr.ru/tur_schedule/>
+<http://persian.ruvr.ru/2012_10_18/91620925/>
+<http://polish.ruvr.ru/about.html>
+<http://portuguese.ruvr.ru/horario/>
+<http://serbian.ruvr.ru/about.html>
+<http://turkish.ruvr.ru/tur_schedule/>
+<http://vietnamese.ruvr.ru/vnm_schedule/>
+
+RUSSIA   [ARMENIA/GERMANY/MOLDOVA/TAJIKISTAN]
+
+Winter B-12 schedule of Voice of Russia Moscow.
+Russian languages Service schedule B-12,
+Updated and compressed on January 1, 2013
+B-Version as of Jan 2, 2013
+
+UTC
+language - program
+kHz   TX location kW target area remarks
+
+0000-0100
+Russian (GR)
+  657 Grozniy 50 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+
+0100-0200
+Russian (GR)
+  657 Grozniy 50 Caucasus
+ 1395 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+
+0200-0300
+Russian (GR)
+  657 Grozniy 50 Caucasus
+ 1395 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+12070 Moscow 250 CIS-CeAS
+
+0300-0400
+Russian (GR)
+  657 Grozniy 50 Caucasus
+ 1395 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+12070 Moscow 250 CIS-CeAS
+
+0400-0500
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+ 1395 Yerevan Gavar-ARM 1000 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1548 Grigoriopol-MDA 1000 UKR/MDA
+ 1548 Grigoriopol-MDA 500 EUR
+
+0500-0600
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 EUR, UKR/MDA
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1548 Grigoriopol-MDA 1000 UKR/MDA
+ 1548 Grigoriopol-MDA 500 EUR
+
+0600-0700
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  693 Oranienburg Germany 125 EUR
+  999 Grigoriopol-MDA 500 EUR, UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1548 Grigoriopol-MDA 1000 UKR/MDA
+ 1548 Grigoriopol-MDA 500 EUR
+
+0700-0800
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  693 Oranienburg Germany 125 EUR
+  999 Grigoriopol-MDA 500 EUR, UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1548 Grigoriopol-MDA 1000 UKR/MDA
+ 1548 Grigoriopol-MDA 500 EUR
+
+0800-0900
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  693 Oranienburg Germany 125 EUR
+  999 Grigoriopol-MDA 500 EUR, UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+0900-1000
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+
+1000-1100
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+
+1100-1200
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1395 Yerevan Gavar-ARM  500 Caucasus/NE/ME/CIS
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+
+1200-1300
+Russian (GR)
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1395 Yerevan Gavar-ARM 500 CIS/Caucasus, NE/ME
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+12055 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1300-1400
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1395 Yerevan Gavar-ARM 500 CIS/Caucasus, NE/ME
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+12055 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1400-1500
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+12055 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1500-1600
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+12055 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1600-1700
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1143 Kaliningrad Bolshakovo 150 Baltics, Belarus
+ 1143 Kaliningrad Bolshakovo 150 EUR
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+ 6110 Novosibirsk 250 NE/ME, Caucasus
+ 6110 Novosibirsk 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1700-1800
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+ 6110 Novosibirsk 250 NE/ME, Caucasus
+ 6110 Novosibirsk 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+ 9790 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1800-1900
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1026 Novosibirsk 500 ME, CIS-CeAS
+ 1143 Kaliningrad Bolshakovo 150 Baltics, Belarus
+ 1143 Kaliningrad Bolshakovo 150 EUR
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1215 Kaliningrad Bolshakovo 1200 EUR, Baltics, Belarus
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1413 Grigoriopol-MDA 500 UKR/MDA
+ 1413 Grigoriopol-MDA 500 SoEaEUR
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+ 6110 Novosibirsk 250 NE/ME, Caucasus
+ 6110 Novosibirsk 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+ 9790 Moscow 250 CeAS, CIS-CeAS, AUS/NZL/PAC
+
+1900-2000
+Russian (GR)
+  171 Armavir Tbilisskaya 1200 CIS/Caucasus
+  657 Grozniy 50 Caucasus
+  612 Moscow Kurkino 20 Moscow area, EUR
+  693 Oranienburg Germany 125 EUR
+ 1143 Kaliningrad Bolshakovo 150 Baltics, Belarus
+ 1143 Kaliningrad Bolshakovo 150 EUR
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1215 Kaliningrad Bolshakovo 1200 EUR, Baltics, Belarus
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1413 Grigoriopol-MDA 500 UKR/MDA
+ 1413 Grigoriopol-MDA 500 SoEaEUR
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+
+2000-2100
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  693 Oranienburg Germany 125 EUR
+ 1143 Kaliningrad Bolshakovo 150 Baltics, Belarus
+ 1143 Kaliningrad Bolshakovo 150 EUR
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1215 Kaliningrad Bolshakovo 1200 EUR, Baltics, Belarus
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+
+2100-2200
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  612 Moscow Kurkino 20 Moscow area, EUR
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1170 Armavir Tbilisskaya 1200 NE/ME/CIS
+ 1215 Kaliningrad Bolshakovo 1200 EUR, Baltics, Belarus
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+
+2200-2300
+Russian (GR)
+  657 Grozniy 50 Caucasus
+  999 Grigoriopol-MDA 500 UKR/MDA
+  999 Grigoriopol-MDA 500 SoEaEUR
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+ 1503 Dushanbe-TJK 500 CIS-CeAS
+ 1503 Dushanbe-TJK 500 ME/NE
+
+2300-2400
+Russian (GR)
+  657 Grozniy 50 Caucasus
+ 1395 Yerevan Gavar-ARM 500 CIS, NE/ME
+ 1395 Yerevan Gavar-ARM 500 Caucasus
+
+RUSSIA   Winter B-12 schedule of Voice of Russia Moscow.
+DRM mode services schedule B-12,
+B-Version as of Jan 2, 2013
+
+UTC
+language
+kHz   TX location kW target area remarks
+
+0600-0700
+English
+11635 DRM ch#2A Moscow 40 EUR
+
+0700-0800
+English
+11635 DRM ch#2A Moscow 40 EUR
+
+0800-0900
+English
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+11635 DRM ch#2A Moscow 40 EUR, Baltics
+
+Russian (GR)
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+0900-1000
+English
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+German
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+11635 DRM ch#2A Moscow 40 EUR, Baltics
+
+1000-1100
+English
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+German
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+1100-1200
+English
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+11640 DRM ch#2A Irkutsk 15 AS - not heard
+      - totally covered by CRI Xian Mandarin 500kW powerhouse,
+      and RTI Kouhu Taiwan in Chinese.
+
+German
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+1200-1300
+English
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+Russian (GR)
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+1300-1400
+English
+ 9625 DRM ch#1A Kaliningrad Bolshakovo 15 EUR
+
+Hindi
+ 7315 DRM ch#2A Irkutsk 15 AS
+
+Russian (GR)
+ 9625 DRM ch#1B Kaliningrad Bolshakovo 15 EUR
+
+1400-1500
+Urdu
+ 7315 DRM ch#2A Irkutsk 15 AS
+
+1500-1600
+Hindi
+ 7315 DRM ch#2A Irkutsk 15 AS
+
+1700-1800
+Italian
+ 6145 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+
+1800-1900
+French
+ 6145 DRM ch#2A Kaliningrad Bolshakovo 15 EUR
+
+2000-2100
+Spanish
+ 6000 DRM ch#2A Moscow 40 EUR, Iberian peninsula
+
+2100-2200
+Portuguese
+ 6000 DRM ch#2A Moscow 40 EUR, Iberian peninsula
+
+(Voice of Russia outlets checked 24hrs on Jan 2nd on 16 remote SDR units
+in Europe, and 5 more in JPN and the Australian remote Perseus unit also
+used.
+
+Transformed VoRUS XLS format file arrived from Vadim Alexeew, into pure
+.txt file Jan 4, Adapted by wb to wwdxc BC-DX TopNews, Jan 2-4)

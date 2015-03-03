@@ -1,0 +1,187 @@
+/*
+ * tm1628.c
+ *
+ * Created: 14.05.2012 19:31:52
+ *  Author: Windk
+ */ 
+
+// TM1628  http://aitendo3.sakura.ne.jp/aitendo_data/product_img/ic/LED-driver/TM1628english.pdf
+// PDF:  PT6961.pdf
+
+// my display:
+
+// DVD  \|/    |-|  :  |-|  |-|  :  |-|  |-|   VCD
+// CD   /|\    |_|  ^  |_|  |_|  ^  |_|  |_|   dts
+// sg9  sg10   sg1  |  sg2  sg8  |  sg3  sg4   sg5
+//  |_______________|            |______________|
+
+// a - DVD, VCD, top left sector
+// b - >, top sector, 2nd :
+// c - nop
+// d - CD, bottom sector, digit D
+// e - ||, bottom left sector, dts
+// f - 1st :, top right sector
+// e - bottom right sector
+
+//Atmega 32  12MHz.
+
+#include <avr/io.h>
+#include <util/delay.h>
+
+unsigned char  DISPLAY_TYPE, DISPLAY_BRIGHT, DISPLAY_MODE;
+unsigned char SG, SG1;
+
+#define uchar unsigned char
+
+#define SET_B(x) |= (1<<x)
+#define CLR_B(x) &=~(1<<x)
+#define INV_B(x) ^=(1<<x)
+
+// assign here your pins
+#define TM1628_STROB 0  //PB0
+#define TM1628_DIO 1 //PB1
+#define TM1628_CLK 4 //PB4
+// and select PORT in main()
+
+void TM1628_ClearRAM(void)
+{
+	int i;
+	PORTB CLR_B(TM1628_STROB);
+	_delay_us (1);
+	for(i=0;i<14;i++)
+	{
+		TM1628_Send_noSTROB(0);
+	}
+	_delay_us (1);
+	PORTB SET_B(TM1628_STROB);
+	_delay_us (1);
+}
+
+void TM1628_Send(unsigned char data)
+{
+	unsigned char i;
+	PORTB CLR_B(TM1628_STROB);  // set TM1628_STROB to low
+	_delay_us (1);
+	for(i=0;i<8;i++)
+	{
+		if((data&0x01) == 0)
+		{
+			PORTB CLR_B(TM1628_DIO); // if the bit is 0, set TM1628_DIO = 0;
+		}			
+		else
+		{
+			PORTB SET_B(TM1628_DIO)	; //if the bit is 1, set TM1628_DIO = 1;
+		}			
+		_delay_us (1);	
+		PORTB CLR_B(TM1628_CLK);//TM1628_CLK=0;	
+		_delay_us (1);		
+		PORTB SET_B(TM1628_CLK);//TM1628_CLK=1;
+		_delay_us (1);
+		data = data >> 1; //shift Data bit
+	}
+	PORTB SET_B(TM1628_STROB);  // set TM1628_STROB to Hi
+	_delay_us (1);
+}
+
+void TM1628_Send_noSTROB(unsigned char data)
+{
+	unsigned char i;
+
+	for(i=0;i<8;i++)
+	{
+		_delay_us (1);
+		if((data&0x01) == 0)
+		{
+			PORTB CLR_B(TM1628_DIO); // if the bit is 0, set TM1628_DIO = 0;
+		}
+		else
+		{
+			PORTB SET_B(TM1628_DIO)	; //if the bit is 1, set TM1628_DIO = 1;
+		}
+		_delay_us (1);
+		PORTB CLR_B(TM1628_CLK);//TM1628_CLK=0;
+		_delay_us (1);
+		PORTB SET_B(TM1628_CLK);//TM1628_CLK=1;
+		data = data >> 1; //shift Data bit
+		_delay_us (1);
+	}
+}
+
+
+int main(void)
+{
+	int i=0;
+
+	// Port B initialization
+	PORTB = (1<<TM1628_STROB)|(1<<TM1628_DIO)|(1<<TM1628_CLK);
+	DDRB = (1<<TM1628_STROB)|(1<<TM1628_DIO)|(1<<TM1628_CLK);
+
+	// Port C initialization
+	PORTC=0x00;
+	DDRC=0xFC;
+	
+	PORTC = (1<<PC7);
+	
+	_delay_ms (1000);
+
+//----------------- init DISPLAY---------------------------
+	DISPLAY_TYPE = 0x03;   // Comm1:  select type display, 7x11
+	DISPLAY_BRIGHT = 0x8A; // Comm4: Pulse width = 4/16
+	DISPLAY_MODE = 0x40;   // Comm2: Normal, Auto increment
+
+	TM1628_Send(DISPLAY_MODE); //Comm2:
+	
+	TM1628_ClearRAM();
+	
+	TM1628_Send(DISPLAY_TYPE); //Comm1
+
+	TM1628_Send(DISPLAY_BRIGHT); // Comm4: Display ON
+//---------------------------------------------------------
+
+	SG = 128+1+8; // sg8, sg1, sg4 is ON
+	SG1 = 3;  // sg9 & sg10  are ON
+	PORTC SET_B(6); //LED On
+
+//------------- work with DISPLAY ----------------------------	
+
+	TM1628_Send(DISPLAY_MODE); //Comm2: 
+
+	PORTB CLR_B(TM1628_STROB);  // set STROBE to low.
+	TM1628_Send_noSTROB(0xC0); // Comm3: addr=0	
+	
+	TM1628_Send_noSTROB(SG);//a in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // 'DVD' and 'top_left sector' in sg9, sg10
+	TM1628_Send_noSTROB(SG);//b in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // '>'  and 'top sector' in sg9,  sg10 
+	TM1628_Send_noSTROB(SG);//c in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // nop
+	TM1628_Send_noSTROB(SG);//d in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // 'CD' and 'bottom sector' in sg9, sg10
+	TM1628_Send_noSTROB(SG);//e in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // '||'  and 'left_bottom' sector in sg9, sg10
+	TM1628_Send_noSTROB(SG);//f in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // first ':'  and 'top_right sector'
+	TM1628_Send_noSTROB(SG);//g in sg8, sg1, sg4
+	TM1628_Send_noSTROB(SG1); // nop and 'bottom_right sector'
+	
+	PORTB SET_B(TM1628_STROB); // set STROBE to High.	
+
+	//Example for fix (command2 = 0x44) address:
+	//TM1628_Send2(0xC0,SG); //Comm3: 
+	//TM1628_Send2(0xC2,SG); //Comm3: 
+	//TM1628_Send2(0xC4,SG); //Comm3: 
+	//TM1628_Send2(0xC6,SG); //Comm3: 
+	//TM1628_Send2(0xC8,SG); //Comm3: 
+	//TM1628_Send2(0xCC,SG); //Comm3: 
+
+	TM1628_Send(DISPLAY_TYPE); //Comm1:
+		
+	TM1628_Send(DISPLAY_BRIGHT); // Comm4:  Display ON
+//--------------------------------------------------------------
+		
+	_delay_ms (5000);
+	PORTC CLR_B(6); //LED Off
+	_delay_ms (7000);
+
+	//TM1628_Send(BGIGHT_DISPLAY - 8); // Comm4:  Display OFF
+}

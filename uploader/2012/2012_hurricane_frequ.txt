@@ -1,0 +1,776 @@
+                      2012 Hurricane Frequencies
+                         By Hugh Stegman NV6H
+
+                       (Last Update 2 Sep 12)
+
+                Please delete older copies of this list!
+             They only propagate errors across the Internet,
+                      then I catch hell for it.
+
+
+This hurricane season will determine the fate of this list.  If
+HF is as dead as Irene was, the list is toast. 
+
+After Isaac, we're still waiting, but it does not look good.
+
+It should be obvious that "hurricane frequency" does not mean what
+it did in 1990. Except for the weather schedules and two or three
+amateur nets, there are no longer HF users who are guararanteed to
+do something every time there's a storm.
+
+Amateur nets move around. Just tune the band for anyone obviously
+using procedures.  20 meters above 14100 is prime hunting territory
+in day time, for long-distance nets. Local LSB nets use 75 or 40
+meters and are audible longer distances at night. A few nets might
+move to 21 MHz in the local afternoon hours, conditions permitting.
+
+All days and times are UTC.
+
+Submit corrections/additions to utilityworld@ominous-valve.com.
+
+
+***************************************************************
+FLASH: Here's the expanded SHARES net list. The times are for
+routine meetings. They become more continuous if SHARES goes
+to a higher level.
+
+4458.0 / 5778.5 Region 6 night net (Tu 0100)
+4458.0   Region 4 night net (Wed 0100)
+4481.5   Possible night net (Wed 0100)
+4618.0 / 5778.5 national night net (Tu 0100)
+5236.0   Northeast weekly night net (Wed 2300)
+6765.0   Northern weekly net (Wed 1545)
+6845.0   Northeast Region weekly net (Wed 1600)
+6910.0   Southern weekly net (Wed 1600)
+7403.5   Southwest Region weekly net (Wed 1600)
+7632.0   Southeast Region weekly net (Wed 1600)
+12076.0  VA net (Wed 1700)
+14396.5  National admin net (Wed 1545)
+14396.5  National net (Wed 1600)
+***************************************************************
+
+
+
+  490.0   (Sitor-B) NAVTEX alternate, languages other than English
+  518.0   (Sitor-B) US & Canadian CGs, Navigational Telex (NAVTEX)
+ 1905.0   (LSB) Delaware Emergency Net (Alt)
+ 1984.0   (LSB) Virgin Islands/ Antilles/ PR
+ 2054.0   (Fax) US Coast Guard, Kodiak, AK
+ 2082.5   Intership Safety and Operational Comm, all areas.
+           ^Also, Intership non-commercial fishing.
+ 2182.0   Maritime voice calling and distress, wx announcement ch
+ 2174.5   (Teleprinting) NBDP Distress and Safety
+ 2177.0   (DSC) Coast Stations and Intership DSC Calling
+ 2187.5   (DSC) Digital Selective Calling Safety/Distress(GMDSS)
+ 2203.0   Intership Safety and Operational Communications.
+           ^Gulf of Mexico
+           |Also, Intership non-commercial fishing. 
+ 2214.0   Intership Safety/ Operational Comm, all areas
+ 2326.0   State Emergency Management ALE/USB VOICE (Operation Secure)
+           ^SECURE use varies greatly by state, not all fqs active
+ 2411.0   State Emergency Management USB (Operation Secure)
+ 2414.0   State Emergency Management ALE/USB VOICE (Operation Secure)
+ 2419.0   State Emergency Management (Operation Secure)
+ 2422.0   State Emergency Management (Operation Secure)
+ 2439.0   State Emergency Management (Operation Secure)
+ 2463.0   State Emergency Management (Operation Secure)
+ 2466.0   State Emergency Management (Operation Secure)
+ 2471.0   State Emergency Management (Operation Secure)
+ 2474.0   State Emergency Management (Operation Secure)
+ 2487.0   State Emergency Management (Operation Secure)
+ 2500.0   WWV wx h+8, 9, 10; WWVH wx h+48, 49, 50, 51
+ 2511.0   (ALE) CAP Southeast Region
+ 2511.0   State Emergency Management (Operation Secure)
+ 2535.0   State Emergency Management (Operation Secure)
+ 2569.0   State Emergency Management (Operation Secure)
+ 2582.0   ZBM - St. George's Harbour Radio, Bermuda
+ 2587.0   State Emergency Management (Operation Secure)
+ 2638.0   Intership Safety/ Operational Comm, all areas
+ 2670.0   US Coast Guard, MSI broadcasts, announced on 2182
+           ^U.S. Coast Guard Liaison and Maritime Safety
+           |Broadcasts, Also Intership Safety and Operational
+           |Communications in all areas; LOW COVERAGE
+ 2738.0   Intership Safety/ Operational Comm
+           ^all areas except Great Lakes. Shared with aircraft.
+ 2801.0   State Emergency Management (Operation Secure)
+ 2802.4   Red Cross F-91 (may be carrier freq for above)
+ 2804.0   State Emergency Management (Operation Secure)
+ 2812.0   State Emergency Management ALE/USB VOICE (Operation Secure)
+ 2830.0   Intership Safety / Operational Comm
+           ^ Gulf of Mexico only. Shared with aircraft. 
+ 2958.5   US Navy New Orleans
+ 3023.0   US Coast Guard SAR
+ 3047.0   Canadian Forces MACS
+ 3053.0   Tiscom (Mostly USCG use)
+ 3122.0   US Coast Guard, safety of flight
+          ^USCG has migrated much of this to COTHEN
+ 3130.0   US Navy FACSFAC Jacksonville, FL "Sea Lord"
+ 3171.4   Red Cross disaster (F-92)
+ 3202.0   State Emergency Management ALE/USB VOICE (Operation Secure)
+ 3204.0   (ALE) CAP National Command
+ 3216.0   SHARES Regional Coord Net (Night Primary)
+ 3341.0   FEMA "Foxtrot-6,"
+ 3361.0   SHARES Regional Coord Net (Night Alt)
+ 3388.0   FEMA
+ 3573.0   (CW) Carolinas Net
+ 3582.0   (NBEMS) New Hampshire Emergency Digital Net
+ 3583.5   (NBEMS/Olivia/MT63) West PA Emergency Nets digital
+ 3583.5   (Olivia 8 or 16/500) SATERN Digital Net
+ 3622.5   (Fax) JMH, Tokyo, weather charts at 0110 and 1910
+ 3696.0   (LSB) Bahamas Weather Net
+ 3710.0   (LSB) Puerto Rico
+ 3810.0   (LSB) CO ARES Primary NVIS Net (Sun., 0800 Local Mountain Time)
+ 3815.0   (LSB) Caribbean Net (Alt on 3940 S. FL, 3950 N FL)
+            ^ WX4NHC/HWN lists this as a night alt freq
+ 3815.0   (LSB) Inter-island 75 meter frequency (24 hr)
+ 3818.0   (LSB) Caribbean
+ 3820.0   (LSB) Maryland Emergency Phone Net
+ 3823.0   (LSB) Amateur use w/MS Red Cross in Katrina
+ 3845.0   (LSB) Gulf Coast West, often takes H&W
+ 3855.0   (LSB) Trinidad Emergency Net
+ 3862.0   (LSB) GULF COAST H&W
+            ^   Mississippi Emergency Net (Night)
+ 3862.5   (LSB) Mississippi Section Voice Traffic Net
+ 3865.0   (LSB) West Virginia Emergency Net
+ 3873.0   (LSB) Regional ARES Emergency Frequency
+            ^West Gulf ARES Emergency Net (Night)
+            |Central Gulf Coast Hurricane Net
+            |Magnolia Section Net
+            |Louisiana ARES Net
+            |Lousiana Emergency & Tactical Traffic Net (Night)
+            |Mississippi Emergency & Tactical Traffic Net (Night)
+            |North Texas Section ARES
+            |Texas Emergency & Tactical Traffic Net (Night)
+            |Texas Traffic Net
+            |Night Primary and Gulf Coast common tactical
+ 3890.0   (LSB) ARRL Delta Division ARES Net (Night)
+ 3905.0   (LSB) Hawaii, Delaware
+ 3907.0   (LSB) Coastal Carolina Emergency Net  Dy 0000
+ 3910.0   (LSB) Regional Emergency Primary Channel:
+            ^ Virginia primary (alt 7360)
+            | Mississippi ARES, Louisiana Traffic/H&W Net,
+            | West Central Florida Section Net,
+            | Central Texas Emergency Net
+ 3911.0   (LSB) West Central Florida SKYWARN Net
+ 3913.0   (LSB) NY State
+ 3915.0   (LSB) South Carolina Emergency/Traffic Nets
+ 3915.0   (LSB) Massachusetts/Rhode Island
+ 3917.0   (LSB) E Pennsylvania
+ 3923.0   (LSB) North Carolina Net (alt 7232)
+ 3923.0   (LSB) Tar Heel Emergency Net (alt 7232)
+ 3923.0   (LSB) Mississippi ARES
+            ^  Always good for SE US H&W
+ 3925.0   (LSB) Central Gulf Coast Hurricane Net
+ 3925.0   (LSB) Louisiana/Gulf/SW emergency alternate
+ 3927.0   (LSB) North Carolina Morning Net, ARES
+ 3930.0   (LSB) Gulf Coast Hurricane Net alternate
+ 3930.0   (LSB) Louisiana
+ 3930.0   (LSB) North Texas Emergency Net
+ 3933.0   (LSB) Panhandle Traffic Emergency Net  Dy 0000
+ 3935.0   (LSB) Belize
+ 3935.0   (LSB) Central Gulf Coast Hurricane Net
+ 3935.0   (LSB) Health & Welfare Traffic Net (Night)
+           ^ARES Section H&W Frequency for
+           | Louisiana, Mississippi, Oklahoma, Texas
+           | Also Alabama Tactical Use
+ 3937.0   (LSB) W. Massachusetts
+ 3940.0   (LSB) Florida Voice Traffic Net
+ 3940.0   (LSB) Maine HF Net (Primary)
+ 3940.0   (LSB) South Florida ARES Net
+ 3940.0   (LSB) Tropical Voice Traffic Net
+ 3940.0   (LSB) SATERN Alternate
+ 3943.0   (LSB) East, West MA Emergency Nets
+ 3944.0   (LSB) West Gulf Emergency Net
+ 3945.0   (LSB) New Hampshire Emergency Voice Net
+ 3947.0   (LSB) Virginia - Several Nets (alt 7240)
+ 3950.0   (LSB) Northern Florida ARES Net
+ 3950.0   (LSB) National Hurricane Watch, occasional night
+ 3955.0   (LSB) South Texas Emergency Net
+ 3957.0   (LSB) Louisiana State EOC
+ 3960.0   (LSB) Northeast Coast Hurricane Net
+ 3965.0   (LSB) Alabama Emergency Net
+ 3965.0   (LSB) Alabama Traffic Net F-"Mike"
+            ^ Alabama Katrina Alt
+ 3965.0   (LSB) Connecticut ARES HF net
+ 3967.0   (LSB) Gulf Coast Outgoing Traffic Net
+ 3975.0   (LSB) District 32 RACES Net (Alt in TX)
+ 3975.0   (LSB) Georgia ARES
+ 3976.0   (LSB) Vermont Emergency Net (7275 alt)
+ 3978.0   (LSB) New Jersey Emergency Nets
+ 3980.0   (LSB) SE Virginia ARES
+ 3983.0   (LSB) West PA voice nets (7272 alt)
+ 3987.5   (LSB) East PA Emergency Net
+ 3987.5   (LSB) Mexico (Spanish)
+ 3993.5   (LSB) Regional Common Frequency
+            ^ NY State RACES, KY ARES, SC ARES,
+            | Gulf Coast Health & Welfare Primary
+ 4003.0   Bahamas Air Sea Rescue, WX broadcasts dy 1100
+ 4045.0   Caribbean Weather Center, 1030, 1200
+ 4055.0   Federal Aviation Administration, RCOM HF net
+ 4125.0   Maritime clg and distress freq, some weather info
+ 4125.0   USCG calling/watchkeeping (simplex)
+ 4146.0   Maritime simplex channel 4A
+ 4149.0   Maritime simplex channel 4B
+ 4164.5   COTHEN
+ 4207.5   International DSC Channel
+ 4235.0   (Fax) USCG Boston, MA, weather fax, eve/night
+ 4298.0   (Fax) USCG NOJ, Kodiak, AK, all scheduled hours
+ 4316.0   (USB) USCG NMG, New Orleans, LA, voice weather fcsts
+           ^ 0330, 0515, 0930, 1115, 1530, 1715, 2130, 2315
+ 4317.9   (Fax) USCG, New Orleans, LA, all scheduled hours
+ 4346.0   (Fax) USCG, Pt. Reyes, CA, night weather charts
+ 4372.0   US Navy FACSFAC VACAPES, VA, "Giant Killer"
+ 4369.0   WLO traffic & weather
+ 4426.0   USCG, SCN net duplex, ships call on 4134
+ 4426.0   USCG NMN Portsmouth, VA, Atlantic WX 0330 0515 0930
+ 4426.0   USCG NMC Pt. Reyes, CA, Pacific WX 0430 1030
+ 4460.0   State Emergency Management (Operation Secure)
+ 4477.0   (ALE) CAP National Command
+ 4490.0   SHARES National Coord Net (ALE/USB VOICE)
+ 4502.0   (ALE) CAP Southeast Region
+ 4513.0   SHARES Regional Coordination Network (Night Alt)
+ 4557.1   USAF MARS phone patch net, night calling freq
+ 4573.0   SHARES National Net (Alt USB)
+ 4576.0   (ALE) CAP Northeast Region (w/ N. Central & SE)
+ 4640.0   State Emergency Management (Operation Secure)
+ 4630.0   (ALE) CAP Northeast & Southeast Regions
+ 4636.0   (ALE) CAP Northeast & Southeast Regions
+ 4724.0   USAF HF-GCS Primary
+ 4730.0   Tiscom (Mostly USCG use)
+ 4780.0   FEMA
+ 4813.5   USCG emergency, Guam (alternate)
+ 4821.0   Federal Agencies Net, Region 7 (old FHWA hwy net F-14)
+ 4900.0   USAF hurricane net on Eastern Test Range
+ 4960.0   Louisiana National Guard
+ 5000.0   WWV wx h+8, 9, 10; WWVH wx h+48, 49, 50, 51
+ 5006.0   (ALE) CAP National Command
+ 5135.0   SECURE Gulf Coast net ALE/USB VOICE
+ 5136.4   Red Cross F-93
+ 5140.0   SECURE Florida net ALE.USB
+ 5141.4   Red Cross F-94
+ 5142.6   USCG 7th District SAR
+ 5192.0   State Emergency Management (Operation SECURE)
+ 5195.0   State Emergency Management (Operation SECURE)
+ 5211.0   National Emergency Coordination Net night primary, also 
+           FEMA "Foxtrot 11," USB/LSB
+ 5236.0   SHARES Co-ordination Network  Ch-1 (night voice primary)
+ 5250.0   COTHEN
+ 5302.0   FEMA
+ 5320.0   USCG Groups, Miami, FL, and Portsmouth, VA; CG Auxiliary
+           Galveston CG use in Katrina
+ 5350.0   USAF hurricane net on Eastern Test Range
+ 5400.0   USCG, Puerto Rico
+ 5402.0   FEMA
+ 5422.5   USCG Auxiliary
+ 5432.0   USCG
+ 5680.0   Maritime calling and distress frequency
+ 5692.0   USCG air-air, Navy, possibly also FEMA
+ 5696.0   USCG air-ground/safety of flight
+          ^USCG has migrated much of this to COTHEN
+ 5710.0   USAF phone patch discrete
+ 5711.0   SHARES Co-ordination Network  Ch-4 (ALE)
+ 5717.0   CanForce safety of flight/SAR, their version of 5696
+ 5732.0   (ALE/USB VOICE) COTHEN (original net)
+ 5755.0   Federal Agencies Net, Region 7 (old FHWA hwy net F-23)
+ 5821.0   FEMA "Foxtrot-14"
+ 5848.0   US Army Corps of Engineers
+ 5901.0   SHARES National Net (Night Alt)
+ 5909.5   COTHEN
+ 6106.0   FEMA
+ 6215.0   Maritime calling and distress frequency
+ 6215.0   USCG calling/watchkeeping (simplex)
+ 6221.0   Caribbean Weather Center, 1330
+ 6224.0   Maritime simplex channel Ch. 6A
+ 6224.0   Cruiseheimer's Net (winter alt 1), dy 1230
+ 6227.0   Maritime simplex channel Ch. 6B
+ 6227.0   Cruiseheimer's Net (winter primary), dy 1230
+ 6230.0   Maritime simplex channel Ch. 6C
+ 6230.0   Cruiseheimer's Net (winter alt 2), dy 1230
+ 6264.3   Kodiak, AK, WX
+ 6312.0   International DSC Channel
+ 6314.0   (Sitor-B) USCG, Boston, MA, Atlantic at 0140
+ 6340.5   (Fax) USCG, Boston, MA, all scheduled hours
+ 6341.7   (Sitor-B) WLO, weather at 0345
+ 6456.0   (Fax) CF, Victoria, BC, 0245, 1025, 1515, and 2115
+ 6496.4   (Fax) CF, Halifax, NS, hourly charts, RTTY rest of hr.
+ 6501.0   USCG, SCN net duplex, ships call on 6200
+ 6501.0   USCG, NRV, Guam, Pacific WX 0930 1530
+ 6501.0   USCG, NMO, Honolulu, HI, Pacific WX 0600 1200
+ 6501.0   USCG, NOJ, Kodiak, AK, Pacific WX 0203 and 1645
+ 6501.0   USCG, NMN, Portsmouth, VA, Atlantic WX 0330, 0515, 0930,
+           1115, 1530, 2130, and 2315
+ 6519.0   WLO, frequent wx broadcasts
+ 6577.0   MWARA CAR net
+ 6586.0   New York ATC
+ 6709.0   Tiscom (Mostly USCG use)
+ 6712.0   USAF HF-GCS alt
+ 6723.0   US Navy FACSFAC Jacksonville, FL "Sea Lord"(also 6742.0)
+ 6724.0   USAF HF-GCS alt
+ 6739.0   USAF HF-GCS Primary
+ 6742.0   US Navy FACSFAC Jacksonville, FL "Sea Lord"
+ 6773.0   (ALE) CAP Northeast Region (w/ M East, SE, SW)
+ 6785.0   US Army Corps Of Engineers
+ 6800.0   SHARES Coordination Network (Digital BBS)
+ 6803.1   (ALE) US Federal NS/EP
+ 6806.0   (ALE) CAP National Command
+ 6809.0   FEMA "Foxtrot-21"
+ 6826.0   Army MARS
+ 6859.5   Red Cross F-95
+ 6870.0   FAA Southern Region
+ 6985.0   US Army Corps of Engineers ALE/USB VOICE
+ 6985.5   (ALE) US Army National Guard tactical op centers
+ 6999.0   US Army MARS alternate guard fq
+ 7055.0   (LSB) Mexican Hurricane Net (Spanish)
+ 7060.0   (LSB) Mexican Health & Welfare (Spanish)
+ 7065.0   (Olivia 8 or 16/500) SATERN Digital Net
+ 7070.0   (LSB) Baja California N & S (Spanish)
+ 7073.0   (Olivia/MT63) West PA Emergency Nets digital
+ 7090.0   (LSB) Central America Emergency Net (Spanish)
+ 7096.0   (LSB) Bahamas Weather Net
+ 7105.0   (LSB) Cuban use in Michelle
+ 7110.0   (LSB) Cuba
+ 7145.0   (LSB) Bermuda
+ 7158.0   (LSB) Caribbean Net dy 0000
+ 7165.0   (LSB) Caribbean Inter-Island Watch Freq
+ 7225.0   (LSB) Central Gulf Coast Hurricane
+ 7228.0   (LSB) Kentucky
+ 7230.0   (LSB) SW US Traffic Net
+ 7232.0   (LSB) NC Emergency Net (Alt)
+ 7232.0   (LSB) Tar Heel Emergency Net (Alt)
+ 7235.0   (LSB) Central Gulf Coast Hurricane Net
+ 7235.0   (LSB) Regional Emergency Hurricane Frequency
+            ^ Louisiana Emergency Net
+            | Central Gulf Coast Hurricane Net
+            | West Virginia
+ 7238.0   (LSB) Mississippi Emergency Net
+ 7238.0   (LSB) Baja California Maritime Net dy 1500/1600
+ 7240.0   (LSB) American Red Cross Gulf Coast Emergency - PRIMARY
+ 7240.0   (LSB) Virginia - Several Nets (Alt)
+ 7240.0   (LSB) Texas Emergency Net
+ 7241.0   (LSB) Caribbean Maritime Mobile Net, St. Croix, dy 1100
+           ^(7230 - 7240)
+ 7242.0   (LSB) S. Florida Emergency Net (Alt)
+ 7242.0   (LSB) Florida Mid-day Net
+ 7242.0   (LSB) Tropical Traffic Net
+ 7243.0   (LSB) Alabama Emergency Net
+ 7243.0   (LSB) SC Emergency Net
+ 7243.0   (LSB) ARRL Louisiana Section Emergency Net
+ 7245.0   (LSB) Southern Louisiana Emergency Net
+ 7245.0   (LSB) NY State RACES
+ 7247.0   (LSB) SE US Emergency
+            ^ N. Florida ARES, etc
+ 7248.0   (LSB) Texas RACES, Primary Tactical Freq
+ 7250.0   (LSB) Salvation Army SATERN  Sat 1700
+ 7250.0   (LSB) Belize
+ 7250.0   (LSB) Texas
+ 7254.0   (LSB) N. Florida Emergency Net
+ 7255.0   (LSB) Old Emergency Calling Freq
+ 7255.0   (LSB) East Coast Amateur Radio Svc (ECARS)
+ 7260.0   (LSB) West Gulf Coast Hurricane Net (Alt)
+ 7260.0   (LSB) Virginia Emercency Net (Alt)
+ 7262.0   (LSB) Maine HF Net (Alt)
+ 7264.0   (LSB) Gulf Coast Health & Welfare (Alt)
+ 7265.8   (LSB) Salvation Army SATERN (Alt) Sat 1630
+ 7268.0   (LSB) Waterway Net secondary/ Maritime Mobile Net
+ 7268.0   (LSB) Hurricane Watch Net (Night)
+            ^ WX4NHC lists this as a secondary freq
+ 7272.0   (LSB) West PA voice nets (Alt)
+ 7272.5   (LSB) East PA Emergency Net (Alt)
+ 7273.0   (LSB) Texas ARES (Alt) use in past
+ 7275.0   (LSB) ARRL Delta Division ARES Net (day)
+ 7275.0   (LSB) Georgia
+ 7275.0   (LSB) Vermont Emergency Net (Alt)
+ 7280.0   (LSB) Louisiana alternate fq in past
+ 7283.0   (LSB) Gulf Coast Outgoing Health & Welfare
+ 7285.0   (LSB) Primary Regional Daytime Frequency
+            ^ West Gulf Emergency Net
+            | Louisiana Emergency Net
+            | Mississippi Emergency Net
+            | Texas Emergency Net
+            | Heavy use in Katrina
+ 7290.0   (LSB) Primary Regional Daytime H&W/WX Freq
+            ^ Central Gulf Coast Hurricane Net
+            | Texas ARES (Primary Health & Welfare)
+            | Louisiana ARES (Pri H&W)
+            | Mississippi ARES (Pri H&W)
+            | Gulf Coast Weather Net
+ 7294.0   (LSB) Chubasco Net dy 1530
+ 7299.0   (LSB) South Pacific Sailing Net  Dy 1700
+ 7300.0   (LSB) Delaware Emergency Net (Alt)
+ 7305.0   (Fax) JMH, Tokyo, weather charts at 0110 and 1910
+ 7348.0   FEMA
+ 7381.0   SHARES - US Navy MARS
+ 7412.0   USAF hurricane net on Eastern Test Range
+ 7477.0   State Emergency Management (Operation Secure)
+ 7475.0   Federal Aviation Administration, southeast
+ 7480.0   State Emergency Management (Operation Secure)
+ 7480.1   (ALE) US Federal NS/EP
+ 7507.0   USCG and Navy Hurricane Warning Net, Puerto Rico
+ 7508.5   Federal Aviation Administration, Caribbean hurricane net
+ 7527.0   (ALE/USB VOICE) COTHEN (original net)
+ 7528.6   USCG Auxiliary (likely same freq as 7527)
+ 7540.0   SHARES - US Air Force MARS
+ 7545.0   MARS Mission Support Net	
+ 7550.5   Red Cross F-96 (Primary)
+ 7552.1   SHARES - NTA
+ 7602.0   (ALE) CAP National Command
+ 7632.0   SHARES National Coord Net (Night Pri)
+ 7633.6   USAF MARS phone patch net, night calling freq
+ 7650.0   US Army National Net ALE/USB VOICE
+ 7656.0   (ALE) CAP Northeast Region
+ 7697.0   Red Cross F-97
+ 7697.1   (ALE) US Federal NS/EP
+ 7704.0   (ALE) CAP Southeast Region
+ 7743.0   Federal Agencies Net, Region 7 (old FHWA hwy net F-28)
+ 7773.5   USCG, Caribbean use
+ 7802.0   State Emergency Management (Operation Secure)
+ 7805.0   State Emergency Management (Operation Secure)
+ 7932.0   State Emergency Management (Operation Secure)
+ 7935.0   State Emergency Management (Operation Secure)
+ 8000.0   (ALE) US Army National Guard tactical op centers
+ 8012.0   (ALE) CAP National Command
+ 8047.0   US National Guard ALE/USB VOICE
+ 8058.5   (ALE) US Army National Guard tactical op centers
+ 8093.0   US Army National Guard, all regions
+ 8104.0   Caribbean Weather Center hurricane frequency, 0000
+ 8125.0   Federal Aviation Administration, east
+ 8137.0   Caribbean Weather Center, 1100
+ 8146.0   Cruiseheimer's Net (Summer alt 1)
+ 8152.0   Cruiseheimer's Net (Summer pri), US East Coast/ E Car, dy 1230
+ 8156.0   Royal Bahamas Defence Force (coast guard & police)
+ 8158.0   NW Caribbean Cruiser's Net, dy 1400
+           ^Mexico to San Andres Island, Colombia
+ 8160.0   USCG, Caribbean use
+ 8164.0   Cruiseheimer's Net (Summer alt 2)
+ 8184.5   US Army Air Net ALE/USB VOICE
+ 8260.0   Unauthorized Caribbean marine frequency, various languages
+ 8291.0   Maritime calling and distress frequency
+ 8291.0   USCG calling/watchkeeping (Simplex)
+ 8294.0   Maritime simplex channel 8A
+ 8297.0   Maritime simplex channel 8B
+ 8414.5   International DSC Channel
+ 8416.5   (Sitor-B) USCG, Boston, MA, Atlantic WX at 0140 and 1630
+ 8416.5   (Sitor-B) USCG, Honolulu, HI, Pac WX at 0130, 1330, 2030
+ 8416.5   (Sitor-B) USCG CAMSPAC Pt. Reyes, WX at 0015 and 1800
+ 8459.0   (Fax) USCG, Kodiak, AK, all scheduled hours
+ 8502.0   (USB) USCG, New Orleans, LA, voice weather fcsts
+           ^0330, 0515, 0930, 1115, 1530, 1715, 2130, 2315
+ 8503.9   (Fax) USCG, New Orleans, LA, all scheduled hours
+ 8682.0   (Fax) USCG. Pt. Reyes, all scheduled hours
+ 8764.0   USCG, SCN net duplex, ships call on 8240
+ 8764.0   USCG, Honolulu, HI, Pac WX at 0005, 0600, 1200, 1800
+ 8764.0   USCG, Portsmouth, VA, Atlantic WX at 0330, 0515, 0930, 
+           1115, 1530, 1715, 2130, and 2315
+ 8764.0   USCG CAMSPAC Pt. Reyes, Pac WX 0430, 1030, 1630, 2230
+ 8788.0   WLO traffic & weather
+ 8912.0   COTHEN (original net) ALE/USB VOICE
+ 8933.0   New York LDOC, given as sec to TEAL 66 for CNN patch
+ 8968.0   USAF discrete (no longer HF-GCS)
+ 8980.0   Tiscom (Mostly USCG use)
+ 8983.0   USCG Air-Ground/ Safety of Flight
+          ^Seems to be less active, check COTHEN for traffic
+ 8992.0   USAF HF-GCS Primary
+ 9034.0   Tiscom (Mostly USCG use)
+ 9047.0   (ALE) CAP National Command
+ 9064.0   SHARES National Coord Net (Night Alt)
+ 9065.0   (ALE) US Army National Guard tactical op centers
+ 9081.5   US Army ALE/USB VOICE
+ 9106.0   SHARES Coordination Network  Ch. 5 (ALE)
+ 9110.0   (Fax) USCG, Boston, MA, all scheduled hours
+ 9145.0   (ALE) US Army National Guard tactical op centers
+ 9180.0   Mexican Navy
+ 9185.0   Federal Agencies Net, Region 7 (old FHWA hwy net F-31)
+ 9197.0   SHARES - Federal Highway Administration
+ 9122.5   USACE emergency use
+ 9380.0   USCG and US Navy Hurricane Warning Net, Puerto Rico
+ 9295.0   (ALE) US Army National Guard tactical op centers
+ 9496.0   (ALE) US Federal NS/EP
+ 9970.0   (Fax) JMH, Tokyo, weather charts at 0110 and 1910
+ 9982.5   (Fax) NOAA/ DoD, Honolulu, HI weather charts, night
+10000.0   WWV wx h+8, 9, 10; WWVH wx h+48, 49, 50, 51
+10151.5   (ALE) US Army National Guard tactical op centers
+10155.0   (ALE) US Federal NS/EP
+10162.0   (ALE) CAP National Command
+10194.0   FEMA "Foxtrot-25" ALE/USB VOICE/LSB
+10202.0   USAF discrete
+10242.0   (ALE/USB VOICE) COTHEN (original net)
+10305.0   USAF hurricane net on Eastern Test Range
+11402.0   (ALE) CAP National Command
+10493.0   National Emergency Coordination Net day primary, also 
+           FEMA "Foxtrot-26", and SHARES, USB/LSB
+10506.0   (RTTY) CF, Halifax
+10557.0   (ALE) CAP Northeast Region (w/ SW)
+10586.5   SHARES - new SCN channel Xray Foxtrot
+10545.0   (ALE) CAP Southeast Region
+10588.0   FEMA /USCG; ALE in USB, Voice in LSB
+10703.0   (ALE) US Army National Guard tactical op centers
+10780.0   USAF, Cape Radio, FL, and HF-GCS backup
+10816.5   USCG National Net ALE/USB VOICE
+10818.0   (ALE) US Army National Guard tactical op centers
+10891.0   SHARES - Federal Highway Administration
+10935.0   USCG, others, in Caribbean disaster ops
+11008.5   (ALE) US Army National Guard tactical op centers
+11090.0   (Fax) NOAA/ DoD, Honolulu, HI, days
+11175.0   USAF, HF-GCS Primary
+11181.0   USAF discrete
+11196.0   Tiscom
+11202.0   US Coast Guard Safety of Flight
+          ^USCG has migrated much of this to COTHEN
+11217.0   SHARES Co-ordination Network  Ch-6 (ALE)
+11220.0   USAF discrete
+11226.0   USAF discrete
+11230.0   British military, relief use in Bahamas
+11246.0   USAF discrete
+11342.0   New York LDOC
+11402.0   (ALE) CAP National Command
+11451.0   (ALE) US Federal NS/EP
+11494.0   (ALE/USB VOICE) COTHEN (original net)
+12081.0   (ALE) CAP National Command
+12087.0   National Guard Net ALE/USB VOICE
+12163.5   (ALE) US Army National Guard tactical op centers
+12178.7   Federal Agencies Net, Region 7 (old FHWA hwy net F-41)
+12216.0   FEMA
+12218.0   (ALE) CAP Northeast Region (w/ SW)
+12222.0   COTHEN
+12225.0   (ALE) US Federal NS/EP
+12290.0   Maritime calling and distress frequency
+12290.0   USCG calling/watchkeeping (Simplex)
+12350.0   Caribbean Weather Center, 1300
+12353.0   Maritime simplex channel 12A
+12356.0   Maritime simplex channel 12B
+12359.0   Maritime simplex channel 12C
+12362.0   Maritime simplex channel 12D
+12365.0   Maritime simplex channel 12E
+12412.5   (Fax) USCG, Kodiak, AK, all scheduled hours
+12577.0   International DSC Channel
+12579.0   (Sitor-B) USCG, Boston, MA, Atlantic WX at 0140 and 1630
+12579.0   (Sitor-B) USCG, Honolulu, HI, Pac WX
+12786.0   (Fax) USCG CAMSPAC Pt, Reyes, CA, all sched. hours
+12750.0   (Fax) USCG, Boston, MA, day
+12753.0   (Fax) CF, Victoria, BC, 0245, 1025, 1515, and 2115
+12788.0   (USB) USCG, New Orleans, LA, voice weather fcsts
+           ^0330, 0515, 0930, 1115, 1530, 1715, 2130, 2315
+12789.9   (Fax) USCG, New Orleans, LA, all scheduled hours
+13089.0   USCG, SCN net duplex, ships call on 12242
+13089.0   USCG, Guam, Pacific WX at 0330 and 2130
+13089.0   USCG, Honolulu, HI, Pacific WX at 0005 and 1800
+13089.0   USCG, Portsmouth, VA, Atlantic WX at 1115, 1530, 1715, 
+           2130, and 2315
+13089.0   USCG CAMSPAC Pt Reyes, Pac WX at 0430, 1030, 1630, 2230
+13110.0   WLO traffic & weather
+13200.0   USAF, HF-GCS Primary
+13204.0   USAF discrete
+13221.0   Tiscom
+13242.0   SHARES Co-ordination Network  Ch-10
+13245.0   Antigua and Antilles inter-island net
+13270.0   NOAA a/c per John Winward
+13312.0   COTHEN
+13415.0   (ALE) CAP National Command
+13434.0   Federal Agencies Net, Region 7 (old FHWA hwy net F-42)
+13446.0   FEMA "Foxtrot-36" various modes
+13457.0   SHARES primary - also Federal Aviation Administration
+13626.0   Federal Aviation Administration, Gulf
+13630.0   Federal Aviation Administration, west
+13907.0   (ALE/USB VOICE) COTHEN (original net)
+13910.5   US Army MARS emergency net
+13927.0   USAF MARS calling & phone patch primary, some TEAL use
+13977.0   USAF MARS phone patch net, administrative (Sun 1600)
+13956.0   FEMA "Foxtrot-48", some NECN use (USB/LSB)
+13960.0   USAF discrete
+13993.0   SHARES - USAF MARS
+13996.0   SHARES - US Army MARS primary guard fq
+13997.0   (Fax) JMH, Tokyo, weather charts at 0110 and 1910
+14065.0   (Olivia 8 or 16/500) SATERN Digital Net
+14118.0   'Le Reseau Du Capitaine' Net. Montreal, Canada.
+           ^Most operators bilingual FF/EE, covers Atlantic,
+           |Pacific, Caribbean for WX and emergency tfc, 
+           |dy 1100 & 2230
+14121.0   Mississauga Maritime Mobile Net
+           ^Covers Europe, Med, Atlantic, Caribbean and Central
+           |America, dy 1245
+14185.0   Caribbean emergency frequency
+14215.0   Pacific Inter-island Net (Alt)
+14235.0   Pan-American Health Net
+14260.0   UN Net
+14265.0   Salvation Army SATERN Net Primary M-F 1400
+14268.0   UN Radio Readiness Group
+14270.0   Red Cross Net
+14275.0   Now primarily a DX/Contest fq, though still listed Bermuda Net
+14283.0   Friendly Caribus Connection ("FCC;" a Caribbean net)
+14283.0   UN Relief Net
+14293.0   Red Cross use
+14295.0   Unknown Caribbean Activity during Isaac
+14300.0   Maritime Mobile Service Net  Dy 1600
+           ^Atlantic fm. Cape Town to Greenland, E. Pacific,
+           |Gulf. Dy 1600-0200 summer, 1700-0200 winter.
+14300.0   US Coast Guard Amateur Radio Net  S 1600/1700
+14300.0   Maritime Mobile Service Net (daily)
+14300.0   Intercontinental Net
+14303.0   ARRL International Assistance & Traffic Net
+14310.0   Maritime Emergency Net dy 0400
+14313.0   Maritime Mobile Service Net Alternate-1
+14313.0   US Coast Guard Amateur Radio Net  S 1600
+14315.0   Pacific Interisland Net  Dy 0800
+14315.0   Pacific Islands Disaster Net  First Sun, 0100
+14325.0   Hurricane Watch Net, primary fq, amateur and govt,
+          **********ALWAYS MONITOR THIS ONE*********
+14327.0   US Coast Guard Amateur Radio Net  S 1700/1800
+14340.0   California-Hawaii Net M-F 1700
+14340.0   Maritime Emergency Net dy 0400 & 1800
+14340.0   Manana (Baja) Net  M-Sat 1900
+14357.0   (ALE) CAP National Command
+14360.0   (ALE) US Federal NS/EP
+14383.5   SHARES - US Navy MARS
+14389.0   MARS Mission Support Net
+14390.5   MARS disaster operations
+14391.5   US Navy MARS
+14396.5   SHARES National Coord Net (Day Primary),
+           also old National Communications System
+           primary, all 23 agencies
+14405.0   MARS Mission Support Net
+14450.0   FEMA "Foxtrot-41"
+14455.0   SHARES National Coord Net (Day Alt)
+14493.5   SHARES - Federal Bureau of Investigation
+14567.0   FEMA "Foxtrot-39," NECN primary in past
+14582.0   COTHEN
+14606.0   USAF MARS Phone Patch Net
+14653.0   US National Guard Net ALE/USB VOICE
+14757.0   US Army Net ALE/USB VOICE
+14776.0   FEMA
+14836.0   FEMA "Foxtrot-43"
+14898.5   SHARES Voice Alternate
+14914.0   (ALE) CAP Northeast Region
+15000.0   WWV wx h+8, 9, 10; WWVH wx h+48, 49, 50, 51
+15016.0   USAF HF-GCS Primary
+15082.0   Tiscom
+15088.0   USCG Air-Ground safety of flight
+          ^Seems to be less active, check COTHEN for traffic
+15094.0   SHARES Coordination Network  Ch. 7 (ALE)
+15602.0   (ALE) CAP National Command
+15867.0   (ALE/USB VOICE) COTHEN (original net)
+16086.5   (Sitor-B) UCCG CAMSPAC MSI
+16120.0   (ALE) US Army National Guard tactical op centers
+16135.0   (Fax) US DoD, Honolulu, HI, all scheduled hours
+16338.5   National Guard Net ALE/USB VOICE
+16348.0   Federal Aviation Administration
+16420.0   Maritime calling and distress frequency
+16525.0   Caribbean Weather Center, 1320
+16528.0   Maritime simplex channel 16A
+16531.0   Maritime simplex channel 16B
+16534.0   Maritime simplex channel 16C
+16804.5   DSC
+16806.5   (Sitor-B) USCG, Boston, MA, Atlantic WX at 1630
+16806.5   (Sitor-B) USCG, Kodiak, AK, Pacific WX at 1500
+16806.5   (Sitor-B) USCG CAMSPAC Pt Reyes, Pac WX
+17146.4   (Fax) USCG NMG New Orleans, Tropical WX 1715
+17151.2   (Fax) USCG CAMSPAC Pt. Reyes, CA, all scheduled hours
+17314.0   USCG, duplex, ships call on 16432
+17314.0   USCG, Portsmouth, VA, Atlantic WX 1715
+17314.0   USCG. Pt. Reyes, CA, Pacific WX at 1630 and 2230
+17362.0   WLO traffic & weather
+17412.0   (ALE) CAP National Command
+17487.0   SHARES Coordination Network  Ch. 8 (ALE)
+17988.0   Tiscom
+18205.0   (ALE) CAP Southeast Region
+18220.0   (Fax) JMH, Tokyo, weather charts at 0110 and 1910
+18594.0   (ALE/USB VOICE) COTHEN (original net)
+18617.0   USAF MARS Phone Patch Net
+18825.0   Maritime simplex channel 18A
+18828.0   Maritime simplex channel 18B
+18831.0   Maritime simplex channel 18C
+18834.0   Maritime simplex channel 18D
+18837.0   Maritime simplex channel 18E
+18840.0   Maritime simplex channel 18F
+18843.0   Maritime simplex channel 18G
+18889.5   (Sitor-A) FEMA, maritime channel 39
+19290.0   Unk. Federal
+19680.5   (Sitor-B) International marine safety information
+19757.0   Maritime channel 1802, FEMA hrd. here
+20000.0   WWV wx h+8, 9, 10
+20107.0   SHARES Coordination Network  Ch. 7
+20135.5   Tiscom
+20390.0   USAF Cape Radio Secondary, HF-GCS backup
+20890.0   (ALE/USB VOICE) COTHEN (original net)
+20992.6   USAF MARS phone patch net
+21400.0   Transatlantic net (amateur)
+21402.0   Pacific Maritime Net  Dy 2200 (amateur)
+22159.0   Maritime simplex channel 22A
+22162.0   Maritime simplex channel 22B
+22165.0   Maritime simplex channel 22C
+22168.0   Maritime simplex channel 22D
+22171.0   Maritime simplex channel 22E
+22376.0   International Sitor MSI frequency
+22376.0   (Sitor-B) USCG, Guam, WX 0500, 1500, 1900, 2315
+21390.0   Inter-Americas Net
+21400.0   Atlantic Maritime Net
+22527.0   (Fax) USCG CAMSPAC Pt. Reyes, day
+22804.0   WLO traffic & weather
+23072.6   Tiscom
+23214.0   (ALE/USB VOICE) COTHEN (original net)
+23331.5   (Fax)US DoD Honolulu, HI, days
+25350.0   (ALE/USB VOICE) COTHEN (original net)
+25354.0   (ALE) CAP National Command
+26100.5   International Sitor MSI frequency
+26812.0   SHARES Coordination Network  Ch. 8
+
+
+
+Abbreviations:
+
+ARES           Amateur Radio Emergency Service
+ARRL           American Radio Relay League
+ATC            Air Traffic Control
+BBS            Bulletin Board System
+CAP            Civil Air Patrol
+CF             Canadian Forces (CANFORCE)
+CG             Coast Guard
+COTHEN         Customs Over-The-Horizon Enforcement Network
+CW             Continuous Wave telegraphy (Morse code)
+DoD            US Department of Defense
+Dy             Daily
+FAA            Federal Aviation Administration
+FACSFAC        Fleet Area Control & Surveillance Facility
+FAX            Facsimile, like in offices, only FM analog
+FEMA           Federal Emergency Management Agency
+FHWA           Federal Highway Administration
+G-TOR          Golay Teleprinting Over Radio
+HF-GCS         High Frequency Global Communications System
+IARN           International Amateur Radio Network
+LDOC           Long Distance Operational Control
+LSB            Lower Sideband
+MARS           Military Affiliate Radio System
+MSI            Marine Safety Information
+MWARA          Major World Air Route Area
+NAVTEX         Navigational Telex, safety and NTM for ships
+NCS            National Communications System
+NHC            National Hurricane Center, Miami
+NOAA           National Oceanic & Atmospheric Administration
+NS/EP          National Security / Emergency Preparedness
+NTA            National Telecommunications Alliance, replacing 
+                Bellcore
+NTS            National Traffic System (amateur)
+NVIS           Near Vertical-Incidence Skip (short range HF mode)
+PACTOR         Packet Teleprinting Over Radio
+RCC            Rescue Coordination Center
+RTTY           Radioteletype
+SAR            Search And Rescue
+SATERN         Salvation Army Team Emergency Radio Network
+SCN            System Coordination Net (USCG)
+SECURE         State Emergency Capability Using Radio Effectively
+SHARES         SHAred RESources
+SIGMET         SIGnificant METeorological aviation warnings
+SITOR          Simplex Telex Over Radio
+TISCOM         Telecommunications & Information Systems Command
+TPC            Tropical Prediction Center, Miami 
+USAF           US Air Force
+USACE          US Army Corps of Engineers
+USB            Upper Sideband
+USCG           US Coast Guard
+USN            US Navy
+WX             Weather
+WX4NHC         New amateur call at NHC, ex-W4EHW
+
+
+                           #    #    #    #
+
+
